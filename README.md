@@ -11,8 +11,8 @@
 # ゲームごとのスコア計算プログラム追加方法
 
 1. binフォルダの下にゲーム名のフォルダを作成 ex:) ```mkdir bin/bowling```
-2. 1. で作成したフォルダの下にrubyの実行ファイルを作成 ex:) ```bowling_game.rb```
-3. 2. で作成したrubyの実行ファイルに実行権限を付与 ex:) ```chmod +x bin/bowling/bowling_game.rb```
+2. 1.で作成したフォルダの下にrubyの実行ファイルを作成 ex:) ```bowling_game.rb```
+3. 2.で作成したrubyの実行ファイルに実行権限を付与 ex:) ```chmod +x bin/bowling/bowling_game.rb```
 
 # ゲームごとのスコア計算プログラム実行方法
 ex:) ```./bin/bowling/bowling_game.rb```
